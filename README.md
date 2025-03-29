@@ -30,7 +30,7 @@ WSB sought to increase enrollment in its actuarial science program and wanted to
 
 | File | Description |
 |------|-------------|
-| `Team 8 Experiment Proposal.docx` | Final proposal detailing experiment motivation, design, randomization, outcomes, and mitigation strategies |
+| `WSB Experiment Proposal.docx` | Final proposal detailing experiment motivation, design, randomization, outcomes, and mitigation strategies |
 
 ---
 
