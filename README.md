@@ -59,7 +59,6 @@ I collaborated with my team to:
 
 Interested in experimentation, marketing analytics, or causal inference? I’d love to connect.
 
-📧 [Email me](mailto:arma.rahamath@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/armashaik/)  
 💻 [More Projects](https://github.com/ArmaShaik)
 
